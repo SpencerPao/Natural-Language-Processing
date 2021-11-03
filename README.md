@@ -4,3 +4,4 @@ I cover sentiment analysis at a very high level, covering all the basics to get 
 - Preprocessing: Tokenization, Regex, Lemmatization, Stop Words
 - Word2Vec
 - Embedding Layer
+- LSTM Classification
