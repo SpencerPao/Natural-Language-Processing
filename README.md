@@ -13,7 +13,7 @@
 I cover what an NER is and how to use this model! If you are interested in labeling documents without reading them, this might be the repository for you!
 - Text classification and categorization
 - Utilizes prebuilt models
-- Depends on Spacy
+- Depends on [SpaCy](https://spacy.io/api/entityrecognizer)
 - Video can be found [here](https://youtu.be/4pCB1lZrBcQ)
 
 # Sentiment Analysis
