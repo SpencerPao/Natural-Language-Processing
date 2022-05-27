@@ -6,7 +6,7 @@
   - Preprocess your Text
   - Functions that will help you preprocess
   - Customization of functions to get what you need
-  - Video can be found [here](https://youtu.be/ZucclQNVBlo)
+  - YouTube Video can be found [here](https://youtu.be/ZucclQNVBlo)
 
 
 # Named Entity Recognition (NER)
@@ -14,7 +14,7 @@ I cover what an NER is and how to use this model! If you are interested in label
 - Text classification and categorization
 - Utilizes prebuilt models
 - Depends on [SpaCy](https://spacy.io/api/entityrecognizer)
-- Video can be found [here](https://youtu.be/4pCB1lZrBcQ)
+- YouTube video can be found [here](https://youtu.be/4pCB1lZrBcQ)
 
 # Sentiment Analysis
 I cover sentiment analysis at a very high level, covering all the basics to get you started on your NLP journey! The twitter data can be retrieved [**here**](https://www.kaggle.com/paoloripamonti/twitter-sentiment-analysis/output)
