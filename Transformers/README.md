@@ -4,3 +4,5 @@
 - Has the ability to take a more context (getting all the words instead of sequential, iterative input)
 - Has the ability to highly parallelize the processes
 - [Paper use-case](https://arxiv.org/abs/1706.03762) was Machine Translation, however, the transformer models (or derivations of) have been used in other cases
+
+## [YouTube video located here!](https://youtu.be/X0tB-J8_TS4) 
