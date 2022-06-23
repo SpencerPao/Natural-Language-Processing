@@ -23,3 +23,7 @@ I cover sentiment analysis at a very high level, covering all the basics to get 
 - Word2Vec
 - Embedding Layer
 - LSTM Classification
+
+# Transformers
+I cover the high level overview on the transformer architecture, covering all the logic and basics that go into the development of this state-of-the-art model. This model is the successor to popular models such as RNN, GRU, and LSTM's since transformers are easily parallelizeable and have greater understanding with context.
+- YouTube Video cane be found [here](https://www.youtube.com/watch?v=X0tB-J8_TS4)
