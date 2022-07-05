@@ -27,3 +27,7 @@ I cover sentiment analysis at a very high level, covering all the basics to get 
 # Transformers
 I cover the high level overview on the transformer architecture, covering all the logic and basics that go into the development of this state-of-the-art model. This model is the successor to popular models such as RNN, GRU, and LSTM's since transformers are easily parallelizeable and have greater understanding with context.
 - YouTube Video can be found [here](https://www.youtube.com/watch?v=X0tB-J8_TS4)
+
+# BERT
+I cover the high level overview on the architecture of BERT, building off of the transformer architecture, where I cover all the logic and basics that go into the development of such a model. In addition, I evaluate the pros and cons of BERT and LSTM, AND provide a code implmentation with a sentiment analysis prompt.
+- YouTube Video can be found [here]()
