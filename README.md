@@ -29,5 +29,9 @@ I cover the high level overview on the transformer architecture, covering all th
 - YouTube Video can be found [here](https://www.youtube.com/watch?v=X0tB-J8_TS4)
 
 # BERT
-I cover the high level overview on the architecture of BERT, building off of the transformer architecture, where I cover all the logic and basics that go into the development of such a model. In addition, I evaluate the pros and cons of BERT and LSTM, AND provide a code implmentation with a sentiment analysis prompt.
-- YouTube Video can be found [here]()
+I cover the high level overview on the architecture of BERT, building off of the transformer architecture, where I cover all the logic and basics that go into the development of such a model. In addition, I evaluate the pros and cons of BERT and LSTM, AND provide a code implementation with a sentiment analysis prompt.
+- YouTube Video can be found [here](https://www.youtube.com/watch?v=72Ylk77PqR8)
+
+# Question Answering (QA)
+I cover the high level overview on the architecture of QA Models (based on BERT). I also go into depth on what QA Modeling is, how it can be applied, and how it is used in the real world. I also cover the  pretraining and fine-tuning phases of the QA Modeling process.
+- YouTube Video can be founder [here](https://youtu.be/6ppxd9lp-X0)
