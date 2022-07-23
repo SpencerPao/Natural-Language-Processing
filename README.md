@@ -34,4 +34,4 @@ I cover the high level overview on the architecture of BERT, building off of the
 
 # Question Answering (QA)
 I cover the high level overview on the architecture of QA Models (based on BERT). I also go into depth on what QA Modeling is, how it can be applied, and how it is used in the real world. I also cover the  pretraining and fine-tuning phases of the QA Modeling process.
-- YouTube Video can be founder [here](https://youtu.be/6ppxd9lp-X0)
+- YouTube Video can be found [here](https://youtu.be/6ppxd9lp-X0)
